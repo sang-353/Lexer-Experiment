@@ -1,0 +1,1 @@
+[ "program", "var", "integer", "array", "of", "begin", "end", "if", "then", "else", "while", "do", "for", "to", "downto", "string", "real", "char", "boolean", "function", "procedure", "const", "type", "record", "and", "or", "not", "div", "mod" ]
